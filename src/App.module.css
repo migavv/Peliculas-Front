@@ -1,0 +1,8 @@
+.title {
+  font-size: 3rem;
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #9a45bf,
+    0 0 30px #9a45bf, 0 0 40px #9a45bf, 0 0 55px #9a45bf, 0 0 75px #9a45bf;
+  color: #ffffff;
+}
